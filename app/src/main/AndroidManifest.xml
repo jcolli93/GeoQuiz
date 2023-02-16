@@ -12,7 +12,7 @@
         android:theme="@style/Theme.HW1_EX2_GeoQuiz"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name="hw2geoquiz.collins.msu.hw1_ex2_geoquiz.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

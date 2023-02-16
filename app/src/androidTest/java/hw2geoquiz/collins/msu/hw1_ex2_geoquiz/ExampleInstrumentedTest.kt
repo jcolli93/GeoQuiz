@@ -1,4 +1,4 @@
-package com.collins.msu.hw1_ex2_geoquiz
+package hw2geoquiz.collins.msu.hw1_ex2_geoquiz
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
